@@ -136,7 +136,7 @@ classification-2.png: Model performance on test set
 
 README.md: Project description.
 
-# ouput:
+# OUTPUT:
 
 ![Image](https://github.com/user-attachments/assets/f4bb86bc-ba14-4d06-a03f-1940909c65ab)
 
