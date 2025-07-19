@@ -127,7 +127,8 @@ NumPy & Pandas
 
 Matplotlib & Seaborn (for visualization)
 
-📁 Files Included
+📁 Files Included:
+
 classification.ipynb: Jupyter Notebook with the complete model pipeline
 
 classification-1.png: Training and validation accuracy/loss plot
