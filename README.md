@@ -129,8 +129,14 @@ Matplotlib & Seaborn (for visualization)
 📁 Files Included
 classification.ipynb: Jupyter Notebook with the complete model pipeline
 
-classification1.png: Training and validation accuracy/loss plot
+classification-1.png: Training and validation accuracy/loss plot
 
-classification2.png: Model performance on test set
+classification-2.png: Model performance on test set
 
-README.md: Project description (this file)
+README.md: Project description.
+
+# ouput:
+
+![Image](https://github.com/user-attachments/assets/f4bb86bc-ba14-4d06-a03f-1940909c65ab)
+
+![Image](https://github.com/user-attachments/assets/b162c5d7-0a8d-453d-b656-7ffa53c05c14)
