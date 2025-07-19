@@ -12,7 +12,8 @@ DURATION: 6 WEEKS
 
 MENTOR: NEELA SANTOSH
 
-📝 Task Overview
+📝 Task Overview:
+
 This repository contains the implementation of Task 3 of the internship, focused on building an Image Classification Model using a Convolutional Neural Network (CNN). The main objective is to develop a deep learning model capable of classifying images into their respective categories and evaluating its performance on unseen data.
 
 This task is a crucial exercise in understanding computer vision using deep learning, especially with CNNs, which have proven to be exceptionally powerful for tasks involving images due to their ability to capture spatial hierarchies in data.
